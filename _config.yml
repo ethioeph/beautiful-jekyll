@@ -25,7 +25,7 @@ description: A virtual proof that name is awesome!
 navbar-links:
   About Me: "aboutme"
   Homework: 
-    - Good Design: "/_posts2018-09-08-second-test-markdown"
+    - Good Design: "_posts/2018-09-08-second-test-markdown"
   
   Author's home: "https://ethioeph.github.io/"
 
