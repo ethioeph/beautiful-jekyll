@@ -1,74 +1,25 @@
 ---
 layout: page
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: Good Design
+subtitle: Williams College Map
+gh-repo: ethioeph/ethioeph.github.io
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
+
+As soon as we open the map we are given a bird’s eye view of the entire campus which would allow us to easily locate and zoom into the place we want to go. 
+
 ![Map Home](./map-home.jpg)
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+there are clear signifiers to the affordances of the site. There is a clearly visible search signifier via the magnifying glass. 
 
-**Here is some bold text**
+There is a printer icon on the top right signifying the possibility of printing a document. There are zoom in and zoom out buttons clearly shown using the + and - symbols. 
+![Map Search](./map-search.jpg)
 
-## Here is a secondary heading
+The navigation pane on the left is also very intuitive in terms of showing a checked Williams Admission Tour Locations and the 
 
-Here's a useless table:
+![Map Navigation](./map-navigation.jpg)
 
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+What norman said about being able to predict is seen here. There is clearly a very good concept. in this site. 
 
-
-How about a yummy crepe?
-
-
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
-
-## Boxes
-You can add notification, warning and error boxes like this:
-
-### Notification
-
-{: .box-note}
-**Note:** This is a notification box.
-
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
+One minor edit that could be added to this site is the possibility to change the orientation of the map depending on where one needs to go. Having backwards on a map while actually walking forward in a mirror image world is not always easy, but just as Norman illustrated with by mentioning boats and wheelchairs, There is definitely some intuition to navigating in such an environment. 
