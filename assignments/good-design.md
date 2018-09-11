@@ -14,9 +14,11 @@ As soon as we open the map we are given a bird’s eye view of the entire campus
 there are clear signifiers to the affordances of the site. There is a clearly visible search signifier via the magnifying glass. 
 
 There is a printer icon on the top right signifying the possibility of printing a document. There are zoom in and zoom out buttons clearly shown using the + and - symbols. 
+
 ![Map Search](./map-search.jpg)
 
 The navigation pane on the left is also very intuitive in terms of showing a checked Williams Admission Tour Locations and the 
+
 
 ![Map Navigation](./map-navigation.jpg)
 
