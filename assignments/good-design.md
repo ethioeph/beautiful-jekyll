@@ -7,21 +7,21 @@ gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
-As soon as we open the map we are given a bird’s eye view of the entire campus which would allow us to easily locate and zoom into the place we want to go. 
+As soon as we open the map we are given a bird’s eye view of the entire campus which would allow us to easily locate and zoom into the place we want to go. One of the Locations (in this case Admission Tour Locations”) is already selected at the welcome screen and users are able to now predict the effects on selecting any other one of the given check boxes. 
 
 ![Map Home](./map-home.jpg)
 
-there are clear signifiers to the affordances of the site. There is a clearly visible search signifier via the magnifying glass. 
+In addition to this, there are clear signifiers to all major affordances of the site. There is a clearly visible searching signifier via the magnifying glass, printing signifier via the printer icon on the top right, and ability to hide and show the leftmost navigation pane via the hamburger icon on the top left.  
 
-There is a printer icon on the top right signifying the possibility of printing a document. There are zoom in and zoom out buttons clearly shown using the + and - symbols. 
+
+The site is just as good when we are interacting with it as well. For instance, when clicking on the search icon, it pulls in the search query form for the user to insert his/her desired location. The use of signifier here to let users know that the search feature is available while making use of minimal space that doesn’t clutter the navigation pane is well done. 
 
 ![Map Search](./map-search.jpg)
 
-The navigation pane on the left is also very intuitive in terms of showing a checked Williams Admission Tour Locations and the 
+
+The navigation pane on the left is also very intuitive in that it gives the illusion of having a drop down menu that can be expanded for further exploration. It also affords another way to search the site, perhaps if we are unsure how to spell the name of a specific building.
 
 
 ![Map Navigation](./map-navigation.jpg)
 
-What norman said about being able to predict is seen here. There is clearly a very good concept. in this site. 
-
-One minor edit that could be added to this site is the possibility to change the orientation of the map depending on where one needs to go. Having backwards on a map while actually walking forward in a mirror image world is not always easy, but just as Norman illustrated with by mentioning boats and wheelchairs, There is definitely some intuition to navigating in such an environment. 
+One minor edit that could be added to this site is the possibility to change the orientation of the map depending on where one needs to go. Moving backwards on a map while actually walking forward in a mirror image world is not always easy, but just as Norman illustrated by mentioning boats and wheelchairs, there is definitely some intuition to navigating in such an environment. 
