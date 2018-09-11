@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Homework: 
     - Good Design: "assignments/good-design"
+    - Bad Design: "assignments/bad-design"
   
   Author's home: "https://ethioeph.github.io/"
 
