@@ -29,6 +29,7 @@ navbar-links:
   Assignments: 
     - Good Design: "assignments/good-design"
     - Bad Design: "assignments/bad-design"
+    - Report: "assignments/research_paper_report"
   
   #Author's home: "https://ethioeph.github.io/"
 
