@@ -7,11 +7,11 @@ gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
-With a rise in smartphones with high-quality cameras, so has visitor tendencies to document their museum visits and share photos online. In particular, the paper focused on the use of smart phone and the different applications that are stored on them (in this case Instagram) in sharing museum experiences. In addition to the high resolution cameras, the paper also touches on how "the always-online nature of smartphones makes them a powerful technology for facilitating social interaction" (Weilenmann 2) Apart from this,  one of their interesting findings were the notions of visitors as online curators in that they create different narratives from what was present inside of the museum when the interaction was taking place initially. 
+With a rise in smartphones with high-quality cameras, so has visitor tendencies to document their museum visits and share photos online. In particular, the paper focused on the use of smart phone and the different applications that are stored on them (in this case Instagram) in sharing museum experiences. In addition to the high resolution cameras, the paper also touches on how "the always-online nature of smartphones makes them a powerful technology for facilitating social interaction" (Weilenmann 2) Apart from this,  one of their interesting findings were the notions of visitors as online curators in that they create different narratives to what was perhaps initially observed inside of the original museum setting. 
 
-The paper also highlighted the use of tagging not just as a way to organize photos and media for oneself but also as a way to create a conversation stream for people interested to locate these photos and give a richer context to the image via comments. 
+The paper also highlighted the use of tagging not just as a way to organize photos and media for oneself but also as a way to create a conversation stream that people can interact with. On top of this, such an organization allows people to locate the stream with their topic of interest. This type of organization will allow the images being shared not to be limited to the context in which they were originally shared and as a result of a communal effort via comments and sharing be given extra context by the community engaging with the instagram image. 
 
-One of the other interesting points raised by the paper was the new possibilities to have museum visitors concrete museum exhibits. Because of the always online nature that I explained before, museums have a serious ability to create collaborative art on a much larger scale than providing arts and crafts booths where people create small pieces which are added to a wall. 
+One of the other interesting points raised by the paper was the new possibility to have museum visitors concrete museum create virtual exhibits. Because of the always online nature that I explained before, museums have a serious ability to create collaborative art on a much larger scale than providing arts and crafts booths where people create small pieces which are added to a wall. 
 
 Another interesting observation made by  Weilenmann et al. was the underlying narrative conveyed when viewing the instagrams of a user as a stream. Images shared in succession can amount to telling a story that is much more profound than the message conveyed by the individual messages, a classical case of “The whole is greater than the sum of its parts.” I think that including a user profile that houses each person’s posts would be useful in maintaining this kind of storytelling ability of user post streams. 
 
@@ -24,5 +24,5 @@ Another suggestion that is put forward in the article is the usefulness of fluid
 
 
 
-# Citation
+# Works Cited
 Weilenmann, Alexandra & Hillman, Thomas & Jungselius, Beata. (2013). Instagram at the museum: Communicating the museum experience through social photo sharing. Conference on Human Factors in Computing Systems - Proceedings. 10.1145/2470654.2466243. 
