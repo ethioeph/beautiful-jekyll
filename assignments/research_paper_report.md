@@ -2,7 +2,7 @@
 layout: page
 title: Research Paper Report
 subtitle: Instagram at the museum: Communicating the museum experience through social photo sharing
-gh-repo: ethioeph/ethioeph.github.io/muse-soc-network
+gh-repo: ethioeph/ethioeph.github.io/
 ---
 
 With a rise in smartphones with high-quality cameras, so has visitor tendencies to document their museum visits and share photos online. In particular, the paper focused on the use of smart phone and the different applications that are stored on them (in this case Instagram) in sharing museum experiences. In addition to the high resolution cameras, the paper also touches on how "the always-online nature of smartphones makes them a powerful technology for facilitating social interaction" (Weilenmann 2) Apart from this,  one of their interesting findings were the notions of visitors as online curators in that they create different narratives from what was present inside of the museum when the interaction was taking place initially. 
