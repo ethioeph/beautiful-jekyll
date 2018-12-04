@@ -62,7 +62,11 @@ While we do not consider the design for The Gallery to be over, through multiple
 
 Please feel free to experiment with the interactive prototype of [The Gallery](https://ethioeph.github.io/muse-soc-network/) down below. 
 
-<iframe width="442" height="935" src="//invis.io/U9PEI6SP6WC" frameborder="0" allowfullscreen></iframe>
+<div class="iframe_container">
+  <iframe width="442" height="935" src="//invis.io/U9PEI6SP6WC" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 
 # Conclusion
 
