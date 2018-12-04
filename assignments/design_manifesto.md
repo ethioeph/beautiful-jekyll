@@ -33,7 +33,7 @@ In addition to this, our digital mockup adhered to the simplistic view of most s
 
 Is it Afforded or not? The answer to this question is ideally not ambiguous when you are looking at your design. Clearly visible affordances with sound signifiers make interaction with your product much easier and it is very easy to miss putting in the right signifiers for people to figure this out. For more elaboration affordances and signifiers you can check out [Norman's Book](https://www.amazon.com/Design-Everyday-Things-Donald-Norman/dp/1452654123), chapter 4 in particular highlights this issue with multiple poitnent examples. For instance, changing the shade of buttons on the screen when they are pressable was a subtle flaw in our prototype that we had to learn when people were trying to press buttons at times in our task flow that we had not anticipated, for instance pressing  upload from the bottom navigation in the middle of an uploading sequence. Therefore we covered up the buttons that were unavailable to our users using small bits of white paper when performing our subsequent usability tests using our paper prototypes. 
 
-![Ambiguous Upload](./upload_pic.jpg)
+![Ambiguous Upload](./uplaod_pic.jpg)
 
 Similarly, one can also mistakenly think that certain functionality is present because of the presence of unexpected unintended signifiers. In our case, this resurfaced in the form of one our users thinking that they could search for pieces of Art in their personal Gallery once they had pressed the upload button that we had placed in the bottom navigation. However, the search feature was not present where our user had conceptually expected it to be so we ended up having to merge the two functionalities to adhere to simplicity without loss of functionality.
 
