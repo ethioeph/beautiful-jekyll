@@ -54,7 +54,7 @@ Most of my personal ethical guidelines have crossovers with the the [signal code
 
 While design principles may have originally seemed a little bit esoteric and very subjective, there are numerous aspects that are clearly generalizable. One such example is the infamous affinity diagram. While we were skeptical of the use of this marvelous ideation machine, we came to find that it was very helpful in not just allowing divergent thinking but creating a common thread among these divergent thoughts. Below is the Affinity Diagram that we came up with during the initial stages of the design of The Gallery.
 
-[affinity diagram]()
+![Affinity Diagram](./Affinity_diagram_digital.png)
 
 While we do not consider the design for The Gallery to be over, through multiple iterations and cycling between paper and digital prototypes it has reached a stage that is worth marketing and developing further. In the end, the final digital mockup created using [invision](https://www.invisionapp.com/) looked as follows. 
 
