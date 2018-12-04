@@ -49,6 +49,21 @@ Most of my personal ethical guidelines have crossovers with the the [signal code
 
 - “Right to protection”: Even though we do not particularly anticipate anything violent to come out of The Galler, we were sure that there might be a conflict of interest in having all of one’s posts be public so we included the possibility for users to restrict the visibility of their posts to either selected friends or groups. 
 
+
+## Trust the process to guide you home
+
+While design principles may have originally seemed a little bit esoteric and very subjective, there are numerous aspects that are clearly generalizable. One such example is the infamous affinity diagram. While we were skeptical of the use of this marvelous ideation machine, we came to find that it was very helpful in not just allowing divergent thinking but creating a common thread among these divergent thoughts. Below is the Affinity Diagram that we came up with during the initial stages of the design of The Gallery.
+
+[affinity diagram]()
+
+While we do not consider the design for The Gallery to be over, through multiple iterations and cycling between paper and digital prototypes it has reached a stage that is worth marketing and developing further. In the end, the final digital mockup created using [invision](https://www.invisionapp.com/) looked as follows. 
+
+![Digital Mockup](./digital_mockup.png)
+
+Please feel free to experiment with the interactive prototype of [The Gallery](https://ethioeph.github.io/muse-soc-network/) down below. 
+
+<iframe width="442" height="935" src="//invis.io/U9PEI6SP6WC" frameborder="0" allowfullscreen></iframe>
+
 # Conclusion
 
 Even though this article is a simple account the design principles employed in creating The Gallery, the transferability of these design practices is very fluid and easily adaptabe. Rather than go ahead and reinvent the wheel, one can easily instrument different tried and tested design practices to see if they apply in their particular context. These principles and guidelines have made the whole UX design process more intuitive and ultimately more successful so go ahead and trust the process and it will get your design to where it needs to be. 
