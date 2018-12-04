@@ -15,7 +15,7 @@ Without further ado, let's get into the design principles.
 
 # Design Principles
 
-## You $\neq$ User
+## You ≠ User
 
 As much as we would like our users to be able to use products that have been designed to functionality and effectiveness at enabling certain tasks as good measures of usability. It is, therefore, very important that you figure out who your users are and what they want early on before spending too much time designing a product that only serves the needs you and your team perceive to exist. 
 
