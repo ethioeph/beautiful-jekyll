@@ -37,7 +37,7 @@ Is it Afforded or not? The answer to this question is ideally not ambiguous when
 
 Similarly, one can also mistakenly think that certain functionality is present because of the presence of unexpected unintended signifiers. In our case, this resurfaced in the form of one our users thinking that they could search for pieces of Art in their personal Gallery once they had pressed the upload button that we had placed in the bottom navigation. However, the search feature was not present where our user had conceptually expected it to be so we ended up having to merge the two functionalities to adhere to simplicity without loss of functionality.
 
-## Uphold Personal Code of Ethics
+## “Don't do unto others what you don't want done unto you.” - Confucius
 
 Upholding a high ethical standard has never been a more crucial issue that it is in the present time. In the era of Artificial Intelligence and Machine Learning, the effects of biases introduced as a result of unethical behaviour on the part of the designer or developer will end up having exponential effects due to the massive scale of the reach of most of the applications that involve such technology. One can point to the ethical fallibility of not having a clear code of ethics in situations such as those seen in [this article on Machine Learning Bias](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing).
 
